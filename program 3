@@ -1,0 +1,28 @@
+#program to read students data and displaying it
+sno=int(input('Enter  student number:'))
+name=input('Enter student name:')
+gender=input('Enter gender:')
+group=input('Enter group:')
+address=input('Enter address:')
+phno=int(input('Enter phno:'))
+print('sno:',sno)
+print('sname:',name)
+print('sgender:',gender)
+print('sgroup:',group)
+print('address:',address)
+print('phno:',phno)           
+
+output:
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p5.py ==
+Enter  student number:31
+Enter student name:Latha
+Enter gender:Female
+Enter group:MPC
+Enter address:Mamidada,East Godavari,533344.
+Enter phno:45678987654
+sno: 31
+sname: Latha
+sgender: Female
+sgroup: MPC
+address: Mamidada,East Godavari,533344.
+phno: 45678987654
