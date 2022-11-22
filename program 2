@@ -1,0 +1,15 @@
+#swapping of two numberswithout using third varable
+a=int(input())
+b=int(input())
+a=a+b
+b=a-b
+a=a-b;
+print('a:',a)
+print('b:',b)
+
+output:
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p2.py ==
+50
+60
+a: 60
+b: 50
